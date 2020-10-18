@@ -2,8 +2,6 @@ const MongoClient = require("mongodb").MongoClient;
 let client = undefined;
 
 const DB_URL = process.env.DB_URL
-// Used DB from Atlas Cluster 
-// connectionString = mongodb+srv://root:<password>@twhecluster.jasf7.mongodb.net/<dbname>?retryWrites=true&w=majority
 
 const connectDB = () => {
   return new Promise(async (resolve, reject) => {
