@@ -1,4 +1,5 @@
-# Freecharge Backend Challenge - UPI 2.0
+# UPI 2.0 Backend
+A miniature UPI system with its own user registration system, account handling, and data entry system. This was initially developed for a task-based challenge for Freecharge with `Node JS` for the server and `MongoDB` for the database.
 
 ## Tech Stack Used
 
