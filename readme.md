@@ -11,9 +11,9 @@ Database: `MongoDB`
 
 ### Quick Start
 
-Clone the Repo: git clone `https://github.com/theWellHopeErr/freecharge-backend-challenge`
+Clone the Repo: git clone `https://github.com/theWellHopeErr/upi-2.0.git`
 
-Change Directory: `cd freecharge-backend-challenge`
+Change Directory: `cd upi-2.0`
 
 ### Install Dependencies
 
