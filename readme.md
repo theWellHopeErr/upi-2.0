@@ -11,7 +11,7 @@ Database: `MongoDB`
 
 ### Quick Start
 
-Clone the Repo: git clone `https://github.com/theWellHopeErr/upi-2.0.git`
+Clone the Repo: `git clone https://github.com/theWellHopeErr/upi-2.0.git`
 
 Change Directory: `cd upi-2.0`
 
